@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/IgorSerapian/todolist/static/js/main.3aefbdd1.chunk.js",
+    "main.js.map": "/IgorSerapian/todolist/static/js/main.3aefbdd1.chunk.js.map",
+    "runtime-main.js": "/IgorSerapian/todolist/static/js/runtime-main.04e06f84.js",
+    "runtime-main.js.map": "/IgorSerapian/todolist/static/js/runtime-main.04e06f84.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/IgorSerapian/todolist/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.e3dcaddc.chunk.js": "/IgorSerapian/todolist/static/js/2.e3dcaddc.chunk.js",
+    "static/js/2.e3dcaddc.chunk.js.map": "/IgorSerapian/todolist/static/js/2.e3dcaddc.chunk.js.map",
+    "static/js/3.3c777ecc.chunk.js": "/IgorSerapian/todolist/static/js/3.3c777ecc.chunk.js",
+    "static/js/3.3c777ecc.chunk.js.map": "/IgorSerapian/todolist/static/js/3.3c777ecc.chunk.js.map",
+    "index.html": "/IgorSerapian/todolist/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/IgorSerapian/todolist/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/js/2.e3dcaddc.chunk.js.LICENSE.txt": "/IgorSerapian/todolist/static/js/2.e3dcaddc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e06f84.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.e3dcaddc.chunk.js",
+    "static/js/main.3aefbdd1.chunk.js"
+  ]
+}
